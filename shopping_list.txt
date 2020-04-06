@@ -1,6 +1,11 @@
+#Basic items
 1. Cheeze
 2. Tooth paste
 3. Orange Juice
 4. Beer
 5. Floor Cleaner
 6. Air Freshner
+
+#Pets
+
+#Household
